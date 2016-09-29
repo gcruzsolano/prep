@@ -9,6 +9,9 @@ The best explanation of screen shots is at
 
 ![](/assets/screenshot-mac.png)
 
+On Mac you can also use the [Skitch App](https://evernote.com/skitch/)
+to add arrows and annotations to your screenshots.
+
 ## Linux
 
 ![](/assets/screenshot-linux.png)
@@ -16,7 +19,12 @@ The best explanation of screen shots is at
 ## Windows
 
 ![](/assets/screenshot-win.png)
- 
+
+## Animated GIFs
+
+On Mac you can use the [GIPHY Capture
+App](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12).
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
