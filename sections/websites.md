@@ -5,8 +5,9 @@ Maybe this will help
 
 ## Main
 
-The main web site is `skilstak.io`. Going to `skilstak.com` will also
-work by being redirected. 
+The main web site is `[skilstak.io](http://skilstak.io)`. Going to
+`[skilstak.com](http://skilstak.com)` will also work by being
+redirected.
 
 ## Location
 
