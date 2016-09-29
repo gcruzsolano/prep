@@ -43,7 +43,7 @@ professionals use it.
 [real]: http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education
 
 You can read more about [why we love CodeCombat,
-here](codecombat2.md).
+here](/sections/codecombat2.md).
 
 ## Prep Skills 
 
@@ -60,42 +60,42 @@ them off in the markdown source:
 
 These should have been done before you even arrived at SkilStak™:
 
-- [ ] [**Create**: Gmail.com Address](gmail.md)
-- [ ] [**Agree**: Read, A Lot](reading.md)
-- [ ] [**Join**: Mailing List](mailing.md)
+- [ ] [**Create**: Gmail.com Address](/sections/gmail.md)
+- [ ] [**Agree**: Read, A Lot](/sections/reading.md)
+- [ ] [**Join**: Mailing List](/sections/mailing.md)
 
 These you will accomplish and go over in class, but you can work on
 them anytime:
 
 - [ ] [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
-- [ ] [**Show**: How to Use Chrome Incognito](chrome.md)
+- [ ] [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
 - [ ] [**Explain**: Core Offerings](http://offerings.skilstak.io)
-- [ ] [**Pick**: Technology Path](path.md)
-- [ ] [**Join**: Slack Chat Room](slack.md)
-- [ ] [**Create**: GitHub.com Account](github.md)
-- [ ] [**Edit**: File with GitHub](edit.md)
+- [ ] [**Pick**: Technology Path](/sections/path.md)
+- [ ] [**Join**: Slack Chat Room](/sections/slack.md)
+- [ ] [**Create**: GitHub.com Account](/sections/github.md)
+- [ ] [**Edit**: File with GitHub](/sections/edit.md)
 - [ ] [**Create**: Individual Development Plan][idp]
-- [ ] [**Create**: First GitHub Issue](issue.md)
-- [ ] [**Create**: Custom Issue Label](label.md)
-- [ ] [**Sign**: Student Pledge](pledge.md)
-- [ ] [**Create**: First Web Site](web.md)
-- [ ] [**Create**: CodeCombat.com Account(s)](codecombat.md)
-- [ ] [**Know**: Your Web Sites](websites.md)
-- [ ] [**Remember**: Passwords!](passwd.md)
-- [ ] [**Explain**: Communications](communications.md)
-- [ ] [**Explain**: Policies](policies.md)
-- [ ] [**Explain**: What is just-in-time learning?](jit.md)
-- [ ] [**Explain**: What is coding?](coding.md)
-- [ ] [**Explain**: What is organic learning?](organic.md)
-- [ ] [**Explain**: Which computer should I get?](computer.md)
-- [ ] [**Show**: Screenshot](screenshot.md)
-- [ ] [**Show**: Drag a File into a Repo](github-dnd.md)
-- [ ] [**Show**: Login with Mac Terminal ](terminal.md)
-- [ ] [**Show**: Login with CodeAnywhere.com](codeanywhere.md)
-- [ ] [**Show**: Bash and VIM Essentials](bash.md)
-- [ ] [**Show**: Basic Math](math.md)
+- [ ] [**Create**: First GitHub Issue](/sections/issue.md)
+- [ ] [**Create**: Custom Issue Label](/sections/label.md)
+- [ ] [**Sign**: Student Pledge](/sections/pledge.md)
+- [ ] [**Create**: First Web Site](/sections/web.md)
+- [ ] [**Create**: CodeCombat.com Account(s)](/sections/codecombat.md)
+- [ ] [**Know**: Your Web Sites](/sections/websites.md)
+- [ ] [**Remember**: Passwords!](/sections/passwd.md)
+- [ ] [**Explain**: Communications](/sections/communications.md)
+- [ ] [**Explain**: Policies](/sections/policies.md)
+- [ ] [**Explain**: What is just-in-time learning?](/sections/jit.md)
+- [ ] [**Explain**: What is coding?](/sections/coding.md)
+- [ ] [**Explain**: What is organic learning?](/sections/organic.md)
+- [ ] [**Explain**: Which computer should I get?](/sections/computer.md)
+- [ ] [**Show**: Screenshot](/sections/screenshot.md)
+- [ ] [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
+- [ ] [**Show**: Login with Mac Terminal ](/sections/terminal.md)
+- [ ] [**Show**: Login with CodeAnywhere.com](/sections/codeanywhere.md)
+- [ ] [**Show**: Bash and VIM Essentials](/sections/bash.md)
+- [ ] [**Show**: Basic Math](/sections/math.md)
 - [ ] [**Attain**: Forest in CodeCombat.com](http://codecombat.com)
-- [ ] [**Configure**: GitHub Keys](keys.md)
+- [ ] [**Configure**: GitHub Keys](/sections/keys.md)
 
 [codecombat.com]: http://codecombat.com
 [idp]: http://idp.skilstak.io
@@ -164,9 +164,9 @@ long as you like doing other fun stuff:
 1. Create diagrams in [draw.io][]
 1. Create 3D models in [tinkercad.com][]
 1. Learn how to draw with JavaScript at [khanacademy.com][]
-1. Learn to ["hack" your classmate's Mac](hack.md) to make it talk
+1. Learn to ["hack" your classmate's Mac](/sections/hack.md) to make it talk
 1. Learn [Minecraft tools like World Edit](mc)
-1. [Install the Chrome SSH Extension](chrome-ssh.md)
+1. [Install the Chrome SSH Extension](/sections/chrome-ssh.md)
 
 ## Copyright and License
 
@@ -189,9 +189,8 @@ plan on publishing their own modifications or derived versions of
 this course. Specifically they can use code created in their courses
 in their own projects without fear of copyright infringement or
 license violation. Student contributions to this or any other
-SkilStak™
-course are on behalf of SkilStak™ and become a part of this copyright
-and license.
+SkilStak™ course are on behalf of SkilStak™ and become a part of
+this copyright and license.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
