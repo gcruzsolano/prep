@@ -68,6 +68,7 @@ These you will accomplish and go over in class, but you can work on
 them anytime:
 
 1. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
+1. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
 1. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
 1. [**Explain**: Core Offerings](http://offerings.skilstak.io)
 1. [**Pick**: Technology Path](/sections/path.md)
