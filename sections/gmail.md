@@ -59,10 +59,6 @@ account:
 This is extremely useful when you need more than one account on
 another service, like CodeCombat, Twitter, GitHub or whatever else.
 
-## Your Email Address
-
-**My Gmail address is _____________.**
- 
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
