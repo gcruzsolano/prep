@@ -1,0 +1,21 @@
+id           = "f1cac013-183b-434c-b1d7-5f6793afb18a"
+name         = "Preparing for Fundamentals"
+short        = "prep"
+license      = "CC0 Public Domain Dedication"
+
+description = """
+Preparing for Fundamentals is a course designed to cover the basic
+logistical and administrative skills required for further courses
+as well as introduce programming concepts in a super-fun, low-stress
+environment focuses on CodeCombat.com. 90 minutes courses are divided
+into three parts with one part focused on codecombat.com, another
+on one or more Prep skills for the day, and another 30 minutes of
+digital recess where students play games together in a safe,
+collaborative environment.
+"""
+
+keywords = [ "prep", "preparation", "programming", "codecombat", "python", "web", "command line"]
+
+[ages]
+  from = 8
+
