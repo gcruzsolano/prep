@@ -9,7 +9,7 @@ a lot of things, codeanywhere.com, codeacademy.com, piskelapp.com,
 khanacademy.com and many more—especially that use Google+ or GitHub
 for logins. So here's how to do it.
 
-![incognito](assets/incognito.gif)
+![incognito](/assets/incognito.gif)
  
 ---
 [![home](/assets/home-bw.png)](/README.md)

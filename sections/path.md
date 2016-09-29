@@ -12,7 +12,7 @@ The *Python* path leads to [*Engineering*][eng], [*Linux*][linux],
 [*Programming Languages*][lang], and [*Data Science*][data] focus
 categories in the [*Project*][project] courses to follow.
 
-![](assets/python.png)
+![](/assets/python.png)
 
 [eng]: http://eng.skilstak.io
 [linux]: http://linux.skilstak.io
@@ -39,7 +39,7 @@ Languages*][lang], and [*Database*][data] focus categories in the
 [game]: http://game.skilstak.io
 [apps]: http://apps.skilstak.io
 
-![](assets/web.png)
+![](/assets/web.png)
 
 Choose *Web* if you really enjoy anything graphic, or with moving
 graphic parts. Web technology is mostly about front end

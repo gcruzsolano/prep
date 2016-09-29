@@ -1,6 +1,6 @@
 # Google Gmail Account
 
-![](assets/gmail.png)
+![](/assets/gmail.png)
 
 Having a Google account is an absolute essential today. There's no way
 around it. Most web services and games have an option to login with
@@ -22,7 +22,7 @@ using it. This is important to accept and remember. If you are under
 responsible for how it is used. If you ask really nicely they might
 let you use it.
 
-![](assets/gmail-age.png)
+![](/assets/gmail-age.png)
 
 ## Your Most Important Password
 
@@ -35,7 +35,7 @@ accounts.
 When creating an account ***make sure you setup some sort of password
 recovery option, preferrably a phone number.***
 
-![](assets/gmail-recovery.png)
+![](/assets/gmail-recovery.png)
 
 ## Multiple Gmail Accounts
 

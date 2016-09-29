@@ -11,22 +11,22 @@ Unfortunately the mail service that we use (mailchimp.com) is
 automatically sent to the *Promotions* mail folder on Gmail. Here's
 how to find it:
 
-![promotions](assets/promotions.png)
+![promotions](/assets/promotions.png)
 
 ## Confirm Subscription
 
 There will be an email in your main email folder that has something
 like this in it. Click on *Accept*.
 
-![confirm](assets/confirm-subscription.png)
+![confirm](/assets/confirm-subscription.png)
 
 ## Subscription Confirmed
 
-![accepted](assets/subscription-confirmed.png)
+![accepted](/assets/subscription-confirmed.png)
 
 ## Add Contact So Comes to Main Folder
 
-![add-contact](assets/add-to-contacts.png)
+![add-contact](/assets/add-to-contacts.png)
  
 ---
 [![home](/assets/home-bw.png)](/README.md)

@@ -1,6 +1,6 @@
 # Create CodeCombat.com Account(s)
 
-![codecombat](assets/desert.png)
+![codecombat](/assets/desert.png)
 
 Welcome to CodeCombat, the most fun we have found to learn
 programming online. Let's create an account, or two.
@@ -38,15 +38,15 @@ Avoid the temptation to create a Google+ account because that requires
 you to be logged into Google from that browser, which prevents you
 from easily switching between the different languages.
 
-![](assets/coco1.png)
-![](assets/coco2.png)
-![](assets/coco3.png)
-![](assets/coco4.png)
-![](assets/coco5.png)
-![](assets/coco6.png)
-![](assets/coco7.png)
-![](assets/coco8.png)
-![](assets/coco9.png)
+![](/assets/coco1.png)
+![](/assets/coco2.png)
+![](/assets/coco3.png)
+![](/assets/coco4.png)
+![](/assets/coco5.png)
+![](/assets/coco6.png)
+![](/assets/coco7.png)
+![](/assets/coco8.png)
+![](/assets/coco9.png)
 
 Now that you have completed the steps to signup for one account,
 say `+py`, do them again for an account for the other language, say

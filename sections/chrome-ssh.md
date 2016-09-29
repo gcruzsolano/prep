@@ -27,20 +27,20 @@ itself, not Gmail or Google+. This cannot be done, unfortunately, from
 Incognito, which is why this is so problematic for students in
 a classroom setting.
 
-![](assets/chrome-ssh1.gif)
+![](/assets/chrome-ssh1.gif)
 
 ## Install SSH Chrome Extension
 
 Search for `chrome ssh` while logged into Chrome as yourself.
 
-![](assets/chrome-ssh2.gif)
+![](/assets/chrome-ssh2.gif)
 
 ## Add to Bookmarks
 
 Adding the SSH app to your bookmarks makes it easy to login from
 anywhere that you can login to Chrome.
 
-![](assets/chrome-ssh3.gif)
+![](/assets/chrome-ssh3.gif)
 
 ## Configure for `skilstak.sh`
 
@@ -48,7 +48,7 @@ Just type in your user name followed by `@skilstak.sh.` It will fill
 in the rest. You don't need to change anything else about the
 connection settings.
 
-![](assets/chrome-ssh4.gif)
+![](/assets/chrome-ssh4.gif)
 
 ## Solarize
 
@@ -57,23 +57,23 @@ solarized. Never fear, we got you covered. Head over to
 [`solarized.skilstak.io`](http://solarized.skilstak.io) and save the raw
 `json` file.
 
-![](assets/chrome-ssh5.gif)
+![](/assets/chrome-ssh5.gif)
 
 Then you will need to load this configuration file by clicking on
 `Options.`
 
-![](assets/chrome-ssh7.png)
+![](/assets/chrome-ssh7.png)
 
 And then on `Restore Backup` and find the JSON file you downloaded in
 the previous step.
 
-![](assets/chrome-ssh8.png)
+![](/assets/chrome-ssh8.png)
 
 This will solarize everything from that point on *and* stay with you
 no matter where you use the Chrome SSH extension, (which could not be
 said for PUTTY and other alternatives).
 
-![](assets/chrome-ssh6.gif)
+![](/assets/chrome-ssh6.gif)
 
 ---
 [![home](/assets/home-bw.png)](/README.md)

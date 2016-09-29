@@ -19,7 +19,7 @@ Fire up [Chrome](chrome.md) and head to [github.com](http://github.com)
 and make sure you are not logged in as someone else already, (which
 you should not be if you are using [Incognito](chrome.md).
 
-![](assets/github1.png)
+![](/assets/github1.png)
 
 ## Pick a Name and Password, Enter Gmail Address
 
@@ -43,7 +43,7 @@ because you forgot, ***you will have to return to Prep for the rest of
 the semester.*** We simply cannot afford to have careless students
 harm everyone else.
 
-![](assets/github2.png)
+![](/assets/github2.png)
 
 When you are sure everything looks good click on *Create an account.*
 
@@ -55,29 +55,29 @@ which you can do now or later.
 
 [request]: https://education.github.com/discount_requests/new
 
-![](assets/github3.png)
+![](/assets/github3.png)
 
 ## Submit
 
 You can take a moment to fill out the survey if you want. Otherwise,
 just click *Submit*.
 
-![](assets/github4.png)
+![](/assets/github4.png)
 
 ## Start a Project
 
 Click *Start a project* to create your first project repo (short for
 repository).
 
-![](assets/github5.png)
+![](/assets/github5.png)
 
 ## What?! Denied. Go Verify Email.
 
 Yeah, once upon a time you didn't have to verify your email. Now
 you do.
 
-![](assets/github6.png)
-![](assets/github7.png)
+![](/assets/github6.png)
+![](/assets/github7.png)
 
 ## Ok, NOW Create a Project Repo
 
@@ -91,14 +91,14 @@ It has to have a special name, the same name as will be the web site
 address: `youraccount.github.io` (only replace `youraccount` with your
 GitHub user name).
 
-![](assets/github8.png)
+![](/assets/github8.png)
 
 ## Now We're Talkin', Er, Coding
 
 This is what an empty repo looks like. Let's put something in it.
 Click on the `README.md` link, which will open GitHub's editor.
 
-![](assets/github9.png)
+![](/assets/github9.png)
 
 ## Your First Web Page
 
@@ -112,7 +112,7 @@ on it as you learn stuff.
 
 1. Now click the *Commit new file* button.
 
-![](assets/github10.png)
+![](/assets/github10.png)
 
 ## Notice New File
 
@@ -120,27 +120,27 @@ You'll see a new `index.html` file in your repo now and can visit the
 web site. In this case it would be `http://youraccountname.github.io`
 but yours will be different.
 
-![](assets/github11.png)
+![](/assets/github11.png)
 
 ## Update Profile Avatar Image
 
 Ok, so let's un-noobify your profile a little. Go file an image on the
 interwebs and save it to your desktop. Then click on the profile icon.
 
-![](assets/github12.png)
+![](/assets/github12.png)
 
 Now click on the profile image. Oh, and notice that you have a new
 green dot for having made a commit, huzzzah!
 
-![](assets/github13.png)
-![](assets/github14.png)
-![](assets/github15.png)
+![](/assets/github13.png)
+![](/assets/github14.png)
+![](/assets/github15.png)
 
-![](assets/github16.png)
+![](/assets/github16.png)
 
 There, much better.
 
-![](assets/github18.png)
+![](/assets/github18.png)
 
 ## Update the Rest, Or Not
 
@@ -149,7 +149,7 @@ don't need any of it for any course, but you may want to update it
 eventually—especially as you begin to have more things in repos worth
 finding and sharing.
 
-![](assets/github17.png)
+![](/assets/github17.png)
 
  
 ---
