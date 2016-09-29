@@ -28,14 +28,10 @@ do our best to answer every text of phone message immediately. Take a
 moment to write down your locations phone number if you don't already
 have it:
 
-**The phone number for my location is ______________**
-
 ## Announcements and Info: Use Site and Slack #news
 
 If you want to see if we are open over a particular holiday you might
-just check your locations web site. 
-
-**The web site for my location is ______________**
+just check your locations web site. Look for the yearly calendar.
 
 ## Help and Ideas: Slack
 
@@ -43,8 +39,6 @@ If you have a question about a level in CodeCombat or any course
 material Slack is the place to be. Dozens of other students are there
 to help you as well as staff. You should get into the habit of
 checking the Slack room at least once a week:
-
-**The Slack room for my location is ______________**
 
 This is also where students collaborate with each other
 and instructors to get extra projects done.
@@ -65,8 +59,6 @@ with PayPal invoicing. You, as a student, might not care about that,
 but your parents will. Having an email history has proven the most
 personable and least error prone approach.
 
-**The main email for my location is ______________**
-
 ## Consultation: Email and Drop In
 
 Sometimes speaking in person is the right thing to do. When that is
@@ -74,8 +66,6 @@ the case please send an email setting up a time and the location
 manager will be happy to meet with you as soon as can be scheduled.
 Usually this will not be during the break between classes due to the
 amount of activity requiring the manager's attention during that time.
-
-**The street address for my location is ______________**
 
 ## General News and Information
 
@@ -85,17 +75,6 @@ to schedules, course, and policies; special offers and events; and
 upcoming important dates. You can respond to these emails as well
 if you have questions.
 
-## Other Resources
-
-There are a few other resource available to you that your instructor
-can show you: 
-
-**The YouTube channel is ______________**
-
-**The Twitter account is ______________**
-
-**The Facebook site is ______________**
- 
 ---
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

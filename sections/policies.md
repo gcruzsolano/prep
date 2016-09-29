@@ -37,6 +37,14 @@ to a year** from that date for other programs for which the student
 may still be eligible or given to another family member or student
 currently still enrolled in the school or to a new applicant.
 
+## Referral Bonus
+
+If a new student gives the email address or exact name of a current
+student or parent who has referred them ***before*** the new person
+pays for their registration the person named will receive 5% off
+their next semester enrollment. The new person does not receive any
+discount.
+
 ## First Paid, First Registered
 
 All courses require full payment to reserve a place in that course.
