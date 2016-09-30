@@ -1,4 +1,4 @@
-# Preparing for Fundamentals
+# [Preparing for Fundamentals](http://github.com/skilstak/prep-work)
 
 [![why-code](/assets/why-code.png)](https://youtu.be/dU1xS07N-FA)
 
