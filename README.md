@@ -58,7 +58,7 @@ that will have no lasting value outside of their school.)
 As you complete the following your instructor will help you check
 them off in the markdown source:
 
-The first three  should have been done before you even arrived at
+The first two should have been done before you even arrived at
 SkilStak™. The rest you will accomplish and go over in class, but
 you can work on them anytime:
 
