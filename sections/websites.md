@@ -1,7 +1,11 @@
 # Check the Web Site
 
-Knowing which web site we are talking about is sometimes not obvious.
-Maybe this will help
+When all else fails and you do not know where to find everything go to
+[skilstak.io](http://skilstak.io) and look for your location. It
+should never be that hard. From there you can find your chat room for
+asking questions and the shortcuts to all the course materials.
+
+Knowing the other web sites we talk about is important as well.
 
 ## Main
 
