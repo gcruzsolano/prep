@@ -58,45 +58,43 @@ that will have no lasting value outside of their school.)
 As you complete the following your instructor will help you check
 them off in the markdown source:
 
-These should have been done before you even arrived at SkilStak™:
+The first three  should have been done before you even arrived at
+SkilStak™. The rest you will accomplish and go over in class, but
+you can work on them anytime:
 
 1. [**Create**: Gmail.com Address](/sections/gmail.md)
-1. [**Agree**: Read, A Lot](/sections/reading.md)
-1. [**Join**: Mailing List](/sections/mailing.md)
-
-These you will accomplish and go over in class, but you can work on
-them anytime:
-
-1. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
-1. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
-1. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
-1. [**Explain**: Core Offerings](http://offerings.skilstak.io)
-1. [**Pick**: Technology Path](/sections/path.md)
-1. [**Join**: Slack Chat Room](/sections/slack.md)
-1. [**Create**: GitHub.com Account](/sections/github.md)
-1. [**Edit**: File with GitHub](/sections/edit.md)
-1. [**Create**: Individual Development Plan][idp]
-1. [**Create**: First GitHub Issue](/sections/issue.md)
-1. [**Create**: Custom Issue Label](/sections/label.md)
-1. [**Sign**: Student Pledge](/sections/pledge.md)
-1. [**Create**: First Web Site](/sections/web.md)
-1. [**Create**: CodeCombat.com Account(s)](/sections/codecombat.md)
-1. [**Know**: Your Web Sites](/sections/websites.md)
-1. [**Remember**: Passwords!](/sections/passwd.md)
-1. [**Explain**: Communications](/sections/communications.md)
-1. [**Explain**: Policies](/sections/policies.md)
-1. [**Explain**: What is just-in-time learning?](/sections/jit.md)
-1. [**Explain**: What is coding?](/sections/coding.md)
-1. [**Explain**: What is organic learning?](/sections/organic.md)
-1. [**Explain**: Which computer should I get?](/sections/computer.md)
-1. [**Show**: Screenshot](/sections/screenshot.md)
-1. [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
-1. [**Show**: Login with Mac Terminal ](/sections/terminal.md)
-1. [**Show**: Login with CodeAnywhere.com](/sections/codeanywhere.md)
-1. [**Show**: Bash and VIM Essentials](/sections/bash.md)
-1. [**Show**: Basic Math](/sections/math.md)
-1. [**Attain**: Forest in CodeCombat.com](http://codecombat.com)
-1. [**Configure**: GitHub Keys](/sections/keys.md)
+2. [**Agree**: Read, A Lot](/sections/reading.md)
+3. [**Join**: Mailing List](/sections/mailing.md)
+4. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
+5. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
+6. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
+7. [**Explain**: Core Offerings](http://offerings.skilstak.io)
+8. [**Pick**: Technology Path](/sections/path.md)
+9. [**Join**: Slack Chat Room](/sections/slack.md)
+10. [**Create**: GitHub.com Account](/sections/github.md)
+11. [**Edit**: File with GitHub](/sections/edit.md)
+12. [**Create**: Individual Development Plan][idp]
+13. [**Create**: First GitHub Issue](/sections/issue.md)
+14. [**Create**: Custom Issue Label](/sections/label.md)
+15. [**Sign**: Student Pledge](/sections/pledge.md)
+16. [**Create**: First Web Site](/sections/web.md)
+17. [**Create**: CodeCombat.com Account(s)](/sections/codecombat.md)
+18. [**Know**: Your Web Sites](/sections/websites.md)
+19. [**Remember**: Passwords!](/sections/passwd.md)
+20. [**Explain**: Communications](/sections/communications.md)
+21. [**Explain**: Policies](/sections/policies.md)
+22. [**Explain**: What is just-in-time learning?](/sections/jit.md)
+23. [**Explain**: What is coding?](/sections/coding.md)
+24. [**Explain**: What is organic learning?](/sections/organic.md)
+25. [**Explain**: Which computer should I get?](/sections/computer.md)
+26. [**Show**: Screenshot](/sections/screenshot.md)
+27. [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
+28. [**Show**: Login with Mac Terminal ](/sections/terminal.md)
+29. [**Show**: Login with CodeAnywhere.com](/sections/codeanywhere.md)
+30. [**Show**: Bash and VIM Essentials](/sections/bash.md)
+31. [**Show**: Basic Math](/sections/math.md)
+32. [**Attain**: Forest in CodeCombat.com](http://codecombat.com)
+33. [**Configure**: GitHub Keys](/sections/keys.md)
 
 [codecombat.com]: http://codecombat.com
 [idp]: http://idp.skilstak.io
