@@ -1,5 +1,9 @@
 # Mailing List
 
+You should have signed up for the mailing list at the bottom of your
+location’s web page. Make sure you and your emergency contact are on
+it.
+
 The mailing list is one of the main ways to
 [communicate](communications.md) with you are your parents about
 changes, events and such. It is your responsibility to make sure
