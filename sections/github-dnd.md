@@ -1,10 +1,16 @@
-# Dragging a File into a GitHub Repo
+# Dragging a File Into a GitHub Repo
 
 To load a file (image, pdf, etc.) into a GitHub repo, just drag it
-in and commit it. (Yes, the offer to kiss the person(s) who added
-this to GitHub is still open. This is freaking amazing!)
+in and commit it.
 
 ![](/assets/github-dnd2.gif)
+
+## File Name Caution
+
+Often spaces in file names can cause complications. It is generally
+a good idea to remove them or replace them with hyphen `-` or
+underscore `_`. These days hyphen is more popular—especially for web
+content.
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
