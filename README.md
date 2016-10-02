@@ -173,7 +173,7 @@ of class provides a moment to review the class together, provide
 feedback, [pay staff rebates][rebates], and sometimes meet with a parent or
 two briefly.
 
-[rebates]: https://github.com/skilstak/prep/blob/gh-pages/sections/policies.md#student-rebates
+[rebates]: https://github.com/skilstak/prep/blob/gh-pages/sections/policies.md#staff-rebates
 
 ## Prep Mini-Projects
 
