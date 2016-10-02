@@ -1,20 +1,25 @@
-# [Preparing for Fundamentals](http://github.com/skilstak/prep-work)
+# [Preparing for Fundamentals][work]
 
-[![why-code](/assets/why-code.png)](https://youtu.be/dU1xS07N-FA)
+[work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
-Welcome to Prep! Prep gets you ready for everything to come later.
-Some of the stuff in Prep is boring—but important—administrative
-stuff. Some of it is to get you ready to get more serious in [stuff
-that comes later](http://offerings.skilstak.io). Some of it is
-just to do stuff with technology and games that are just fun—even
-educational. The great thing about coding is that it is really fun to
-learn to create stuff.
+**Welcome to SkilStak™!** This Prep course gets you ready for
+everything to come later. Some of the stuff in Prep might seem
+boring—but it is important—administrative stuff. Some of it is to
+get you ready to get more serious in [stuff that comes
+later](http://offerings.skilstak.io).  Some of it is just plain fun.
 
 Each 90-minute class is divided into three parts:
 
 1. **30 minutes:** [CodeCombat](#codecombat)
 2. **30 minutes:** [Prep Skills](#prep-skills) or [Extras](#extras)
 3. **30 minutes:** [Digital Recess](#digital-recess)
+
+## Why Code?
+
+Before we talk about anything else let’s watch a great video produced
+by [Code.org](http://code.org) about what “coding” is and why it matters. It is a little cheesy for our taste, but worth it.
+
+[![why-code](/assets/why-code.png)](https://youtu.be/dU1xS07N-FA)
 
 ## CodeCombat
 
