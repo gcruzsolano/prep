@@ -168,9 +168,10 @@ gaming is not the problem, it is the removal of that other person's
 humanity by covering it up with an anonymous avatar. Digital recess
 helps combat this in a fun way.
 
-For instructors and teacher assistants this bit of time at the end of
-class provides a moment to review the class together, provide
-feedback, pay, and sometimes meet with a parent or two briefly.
+For instructors and teacher assistants this bit of time at the end
+of class provides a moment to review the class together, provide
+feedback, pay staff rebates, and sometimes meet with a parent or
+two briefly.
 
 ## Prep Mini-Projects
 
