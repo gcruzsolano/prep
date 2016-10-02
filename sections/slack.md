@@ -1,11 +1,13 @@
 # Joining the Slack Chat Room
 
-![](/assets/slack.png)
+**The chat room is the most important thing for you to remember
+from this class.** Everything else depends on it. If you have
+questions about anything else, where something is, how to do it, if we
+are open, *everything* is in there. **Each chat room is private for your
+location and you can direct message anyone at the location including
+students and staff.**
 
-Slack is the main way we communicate in real time. Joining—and
-using—Slack is the key to working with other students on projects,
-getting help for whatever you are working on, and contacting
-instructors, assistants, and staff directly.
+![](/assets/slack.png)
 
 Slack is the leading chat tool used by businesses, schools,
 open source development teams, organizations, and about everything
