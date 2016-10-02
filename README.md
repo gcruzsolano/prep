@@ -33,12 +33,17 @@ by [Code.org](http://code.org) about what “coding” is and why it matters. It
 
 ## CodeCombat
 
-![desert](/assets/desert.png)
-
 [CodeCombat](http://codecombat.com) is a game where you basically
 program a bot, your hero, to complete challenges in a fun, graphic
 environment.  It’s crazy fun—but more importantly—it’s *real*
-programming. For some reason when traditional educators get a hold
+programming. Do as much CodeCombat as you can during class and outside
+of class. Those who work the most on it outside of class tend to
+progress the fastest. The first part of every class is dedicated to
+helping you through CodeCombat.
+
+![desert](/assets/desert.png)
+
+For some reason when traditional educators get a hold
 of something they have to make an “educational” version instead of
 teaching the *actual* thing in a way that is approachable. Examples
 of such “educational” things meant to teach programming that can
