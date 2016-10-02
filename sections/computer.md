@@ -51,7 +51,7 @@ If you are a Backend Engineer you want Linux. If you are a Frontend
 Engineer you want Mac. If you are a gamer or creating anything in
 3D you want Windows. [If you want the unapologetic truth about why
 we find Microsoft a poor choice, but don’t blame us if you get
-offended.](https://github.com/skilstak/faq/blob/master/microsoft.md)
+offended.](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md)
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
