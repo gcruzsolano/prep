@@ -16,12 +16,13 @@ Each 90-minute class is divided into three parts:
 2. **30 minutes:** [Prep Skills](#prep-skills) or [Extras](#extras)
 3. **30 minutes:** [Digital Recess](#digital-recess)
 
-We will go over them more on the first day as described on this page.
-The most important part are the [Prep Skills](#prep-skills) that
-directly prepare you to continue on to [Fundamentals in
-Python](http://pyfun.skilstak.io) or [Fundamentals in
-Web](http://webfun.skilstak.io) depending on your chosen [technology
-path](path.md).
+We will go over them more on the first day as described on this
+page. The [Prep Skills](#prep-skills) directly prepare you to
+continue on to [Fundamentals in Python](http://pyfun.skilstak.io)
+or [Fundamentals in Web](http://webfun.skilstak.io) depending on
+your chosen [technology path](path.md). These are the main reason
+you are here. Please make sure you learn them well and know how to
+look them up later if you forget.
 
 ## Why Code?
 
