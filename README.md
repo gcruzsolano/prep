@@ -170,8 +170,10 @@ helps combat this in a fun way.
 
 For instructors and teacher assistants this bit of time at the end
 of class provides a moment to review the class together, provide
-feedback, pay staff rebates, and sometimes meet with a parent or
+feedback, [pay staff rebates][rebates], and sometimes meet with a parent or
 two briefly.
+
+[rebates]: https://github.com/skilstak/prep/blob/gh-pages/sections/policies.md#student-rebates
 
 ## Prep Mini-Projects
 

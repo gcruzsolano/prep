@@ -128,7 +128,21 @@ email.
 Parents and student are responsible to ensure they understand
 and use the [communications methods described
 separately](communications.md).
- 
+
+## Staff Rebates
+
+**SkilStak™ works because of its students, literally.** Exceptional
+students fulfill the needs of other students as the serve as
+teacher assistants, student instructors, system administrators, and
+developers.
+
+Students can earn up to the cost of their entire tuition in rebates
+for working on SkilStak™ staff. However, since most students are under
+the age they cannot legally be paid as contractors or employees.
+Therefore, the maximum any student can work for SkilStak™ and be paid
+is the cost of their tuition. Students can enroll for more offerings
+if they wish to work more.
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
