@@ -50,6 +50,15 @@ If you like you can skip the tutorial for now.
 
 ![](/assets/slack8.png)
 ![](/assets/slack9.png)
+
+## Accept the Prep Work Repo Invite
+
+
+Create your own workbook repo by clicking on the pinned invite in your
+slack chat room.
+
+
+
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
