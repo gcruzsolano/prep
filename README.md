@@ -79,8 +79,8 @@ these days.  (For example, GitHub is still banned in several school
 districts while corporate educational products are forced on students
 that will have no lasting value outside of their school.)
 
-As you complete the following your instructor will help you check
-them off in the markdown source:
+As you complete the following in your [workbook](/sections/work.md)
+your instructor will help you check them off.
 
 The first two should have been done before you even arrived at
 SkilStak™. The rest you will accomplish and go over in class, but
@@ -88,14 +88,14 @@ you can work on them anytime:
 
 1. [**Create**: Gmail.com Address](/sections/gmail.md)
 2. [**Agree**: Read, A Lot](/sections/reading.md)
-3. [**Know**: Your Web Sites](/sections/websites.md)
-4. [**Join**: Mailing List](/sections/mailing.md)
-5. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
-6. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
-7. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
-8. [**Explain**: Core Offerings](http://offerings.skilstak.io)
-9. [**Pick**: Technology Path](/sections/path.md)
-10. [**Join**: Slack Chat Room](/sections/slack.md)
+3. [**Join**: Slack Chat Room](/sections/slack.md)
+4. [**Know**: Your Web Sites](/sections/websites.md)
+5. [**Join**: Mailing List](/sections/mailing.md)
+6. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
+7. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
+8. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
+9. [**Explain**: Core Offerings](http://offerings.skilstak.io)
+10. [**Pick**: Technology Path](/sections/path.md)
 11. [**Create**: GitHub.com Account](/sections/github.md)
 12. [**Edit**: File with GitHub](/sections/edit.md)
 13. [**Create**: Individual Development Plan][idp]
