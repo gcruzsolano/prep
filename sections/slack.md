@@ -1,7 +1,9 @@
 # Joining the Slack Chat Room
 
 **The chat room is the most important thing for you to remember
-from this class.** Everything else depends on it. If you have
+from this class.** Everything else depends on it. If you forget how to
+get to it, go to the home page ([skilstak.io](http://skilstak.io)) and
+find your location. The chat room is linked from there. If you have
 questions about anything else, where something is, how to do it, if we
 are open, *everything* is in there. **Each chat room is private for your
 location and you can direct message anyone at the location including
