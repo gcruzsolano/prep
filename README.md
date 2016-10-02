@@ -20,7 +20,7 @@ We will go over them more on the first day as described on this
 page. The [Prep Skills](#prep-skills) directly prepare you to
 continue on to [Fundamentals in Python](http://pyfun.skilstak.io)
 or [Fundamentals in Web](http://webfun.skilstak.io) depending on
-your chosen [technology path](path.md). These are the main reason
+your chosen [technology path](/sections/path.md). These are the main reason
 you are here. Please make sure you learn them well and know how to
 look them up later if you forget.
 
