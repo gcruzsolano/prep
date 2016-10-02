@@ -43,22 +43,26 @@ helping you through CodeCombat.
 
 ![desert](/assets/desert.png)
 
-For some reason when traditional educators get a hold
-of something they have to make an “educational” version instead of
-teaching the *actual* thing in a way that is approachable. Examples
-of such “educational” things meant to teach programming that can
-actually distract from learning real code include Scratch, Blockly,
-Pascal, Logo, even Code.org.  There's nothing directly wrong with
-these approaches except that they [don't teach real programming
-syntax][real], at all. They teach “computational thinking,” but so
-does math. Strictly speaking, [computational thinking is not the
-programming][real]. You could be an astrophysicist with an extraordinary
-capacity and ability for computational thinking and still not be
-able to write a single line of code without knowing syntax—or more
-importantly—how to structure a program in the target language of
-your domain. To learn real programming you need to use the *actual*
-language and idioms used by the industry ultimately in the way that
-professionals use it.
+Ironically CodeCombat has been forbidden by some schools as “a game”
+(no I am not kidding). It is almost as if some educators refuse to
+allow learning to be fun. Well that ain’t us. 
+
+> For some reason when traditional educators get a hold of something
+> they have to make an “educational” version instead of teaching the
+> *actual* thing in a way that is approachable. Examples of such
+> “educational” things meant to teach programming that can actually
+> distract from learning real code include Scratch, Blockly, Pascal,
+> Logo, even Code.org.  There's nothing directly wrong with these
+> approaches except that they [don't teach real programming syntax][real],
+> at all. They teach “computational thinking,” but so does math.
+> Strictly speaking, [computational thinking is not the programming][real].
+> You could be an astrophysicist with an extraordinary capacity and
+> ability for computational thinking and still not be able to write
+> a single line of code without knowing syntax—or more importantly—how
+> to structure a program in the target language of your domain. To
+> learn real programming you need to use the *actual* language and
+> idioms used by the industry ultimately in the way that professionals
+> use it.
 
 [real]: http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education
 
