@@ -154,7 +154,7 @@ time—but together.
 Students often have a lot of opportunity to play games at home,
 alone. But digital recess gives them an opportunity to realize the
 person they are playing the game with is **a person** sitting right
-next to them. The important of this lesson cannot be
+next to them. The importance of this lesson cannot be
 overstated—especially today.
 
 Social skills, managing conflict and failure, and basic human
