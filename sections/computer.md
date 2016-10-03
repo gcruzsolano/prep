@@ -70,10 +70,18 @@ source port of all the common UNIX commands, and Linux, the kernel
 developed by Linux Torvalds. It is not an exaggeration to say the
 Internet was invented on UNIX and now runs mostly on Linux.
 
-Under the hood Mac Darwin is mostly based on the FreeBSD UNIX
-operating system Jobs brought over from NeXT when he came back. This
-is not Linux but feels very much like it, which is why command line
-developers and good system administrators prefer it.
+Once upon a time Mac computers were only preferred by creatives who
+needed a highly visual environment. The term Windows was a rip off of
+what Apple had produced. 
+
+Something very significant happened when Steve Jobs returned from
+NeXT to Apple. He changed the entire underlying operating system.
+Under the hood Mac Darwin is now mostly based on the FreeBSD UNIX
+operating system Jobs brought over from NeXT when he came back.
+This is not Linux but feels very much like it, which is why command
+line developers and good system administrators prefer it. **Jobs had the
+foresight to see UNIX/LINUX would become the predominant choice of
+developers because of the extremely powerful command line.**
 
 Even if you want or need Windows for software and games you can still
 get a Mac and Bootcamp it into Windows. The same is *not* true for
