@@ -82,42 +82,49 @@ that will have no lasting value outside of their school.)
 As you complete the following in your [workbook](/sections/work.md)
 your instructor will help you check them off.
 
-The first two should have been done before you even arrived at
-SkilStak™. The rest you will accomplish and go over in class, but
-you can work on them anytime:
+You should have setup a Gmail before you arrived at SkilStak™.  The
+rest you will accomplish and go over in class, but you can work on
+them anytime:
 
-1. [**Create**: Gmail.com Address](/sections/gmail.md)
-2. [**Agree**: Read, A Lot](/sections/reading.md)
-3. [**Join**: Slack Chat Room](/sections/slack.md)
-4. [**Know**: Your Web Sites](/sections/websites.md)
-5. [**Join**: Mailing List](/sections/mailing.md)
-6. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
-7. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
-8. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
-9. [**Explain**: Core Offerings](http://offerings.skilstak.io)
-10. [**Pick**: Technology Path](/sections/path.md)
-11. [**Create**: GitHub.com Account](/sections/github.md)
-12. [**Edit**: File with GitHub](/sections/edit.md)
-13. [**Create**: Individual Development Plan][idp]
-14. [**Create**: First GitHub Issue](/sections/issue.md)
-15. [**Create**: Custom Issue Label](/sections/label.md)
-16. [**Sign**: Student Pledge](/sections/pledge.md)
-17. [**Create**: First Web Site](/sections/web.md)
-18. [**Create**: CodeCombat.com Account(s)](/sections/codecombat.md)
-19. [**Remember**: Passwords!](/sections/passwd.md)
-20. [**Explain**: Communications](/sections/communications.md)
-21. [**Explain**: Policies](/sections/policies.md)
-22. [**Explain**: What is just-in-time learning?](/sections/jit.md)
-23. [**Explain**: What is coding?](/sections/coding.md)
-24. [**Explain**: What is organic learning?](/sections/organic.md)
-25. [**Explain**: Which computer should I get?](/sections/computer.md)
-26. [**Show**: Screenshot](/sections/screenshot.md)
-27. [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
+1. [**Agree**: Read, A Lot](/sections/reading.md)
+2. [**Show**: How to Use Chrome Incognito](/sections/chrome.md)
+3. [**Join**: Mailing List](/sections/mailing.md)
+4. [**Create**: Gmail.com Address](/sections/gmail.md)
+5. [**Join**: Slack Chat Room](/sections/slack.md)
+6. [**Explain**: Core Offerings](http://offerings.skilstak.io)
+7. [**Pick**: Technology Path](/sections/path.md)
+8. [**Create**: CodeCombat.com Account(s)](/sections/codecombat.md)
+9. [**Create**: GitHub.com Account](/sections/github.md)
+10. [**Remember**: Passwords!](/sections/passwd.md)
+11. [**Know**: Your Web Sites](/sections/websites.md)
+12. [**Explain**: Policies](/sections/policies.md)
+13. [**Explain**: Communications](/sections/communications.md)
+14. [**Sign**: Student Pledge](/sections/pledge.md)
+15. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
+
+16. [**Create**: Individual Development Plan][idp]
+
+17. [**Show**: Screenshot](/sections/screenshot.md)
+18. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
+19. [**Edit**: File with GitHub](/sections/edit.md)
+20. [**Create**: First GitHub Issue](/sections/issue.md)
+21. [**Create**: Custom Issue Label](/sections/label.md)
+22. [**Create**: First Web Site](/sections/web.md)
+23. [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
+
+24. [**Explain**: What is just-in-time learning?](/sections/jit.md)
+25. [**Explain**: What is coding?](/sections/coding.md)
+26. [**Explain**: What is organic learning?](/sections/organic.md)
+27. [**Explain**: Which computer should I get?](/sections/computer.md)
+
 28. [**Show**: Login with Mac Terminal ](/sections/terminal.md)
 29. [**Show**: Login with CodeAnywhere.com](/sections/codeanywhere.md)
 30. [**Show**: Bash and VIM Essentials](/sections/bash.md)
+
 31. [**Show**: Basic Math](/sections/math.md)
+
 32. [**Attain**: Forest in CodeCombat.com](http://codecombat.com)
+
 33. [**Configure**: GitHub Keys](/sections/keys.md)
 
 [codecombat.com]: http://codecombat.com
