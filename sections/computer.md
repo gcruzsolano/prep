@@ -56,6 +56,24 @@ SkilStak is focused on helping others learn backend and frontend
 engineering. Both of these industry domains are dominated by Mac and
 Linux. 
 
+UNIX machines where invented for colleges such as MIT and others
+where thousands of users simultaneously worked, emailed and
+communicated with IRC chat. In fact, the world wide web was invented
+on a UNIX system as was email, FTP and every other major component of
+the Internet. 
+
+Linux was designed to model the user experience of UNIX but be
+completely free and open source. GNU/Linux is the original and
+current accurate name because it combines GNU, which is an open
+source port of all the common UNIX commands, and Linux, the kernel
+developed by Linux Torvalds. It is not an exaggeration to say the
+Internet was invented on UNIX and now runs mostly on Linux.
+
+Under the hood Mac Darwin is mostly based on the FreeBSD UNIX
+operating system Jobs brought over from NeXT when he came back. This
+is not Linux but feels very much like it, which is why command line
+developers and system administrators prefer it.
+
 Even if you want or need Windows for software and games you can still
 get a Mac and Bootcamp it into Windows. The same is *not* true for
 a Windows machine.
