@@ -45,13 +45,41 @@ machine, another operating system. Doing this is extremely complicated
 for the average person to do. Keep in mind that using a virtual
 machine takes up more RAM and CPU than a normal application.
 
+## Developers Overwhelmingly Prefer Mac and Linux
+
+Facts:
+
+* Most of the web runs on Linux machines.
+* Most of the web is developed on Macs.
+
+SkilStak is focused on helping others learn backend and frontend
+engineering. Both of these industry domains are dominated by Mac and
+Linux. 
+
+Even if you want or need Windows for software and games you can still
+get a Mac and Bootcamp it into Windows. The same is *not* true for
+a Windows machine.
+
 ## So what do you have against Microsoft?
 
-If you are a Backend Engineer you want Linux. If you are a Frontend
-Engineer you want Mac. If you are a gamer or creating anything in
-3D you want Windows. [If you want the unapologetic truth about why
-we find Microsoft a poor choice, but don’t blame us if you get
+Microsoft dominates 3D at the moment but is a far inferior server
+operating system down to the very core mostly because it was not
+designed from the very beginning to be a multiuser system. Everything
+to allow that has been hacked onto it over the years. 
+
+Today, Microsoft is changing rapidly to comply with the standards
+allowing Linux on their Azure cloud and shoe-horning Bash command
+line into Windows 10 (for developers only). These are things Mac
+and Linux have had for more than 16 years.
+
+If you are a gamer or creating anything in 3D you want Windows. A
+lot of developers secretly want a killer gaming system and find a
+way to justify getting a Windows machine because of it. If that is
+you, just own it.  [Here is more of the unapologetic truth about
+why we find Microsoft a poor choice, but don’t blame us if you get
 offended.](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md)
+
+##
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
