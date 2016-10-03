@@ -60,7 +60,8 @@ UNIX machines where invented for colleges such as MIT and others
 where thousands of users simultaneously worked, emailed and
 communicated with IRC chat. In fact, the world wide web was invented
 on a UNIX system as was email, FTP and every other major component of
-the Internet. 
+the Internet. Windows was barely functioning as a desktop operating
+system at that time.
 
 Linux was designed to model the user experience of UNIX but be
 completely free and open source. GNU/Linux is the original and
@@ -72,7 +73,7 @@ Internet was invented on UNIX and now runs mostly on Linux.
 Under the hood Mac Darwin is mostly based on the FreeBSD UNIX
 operating system Jobs brought over from NeXT when he came back. This
 is not Linux but feels very much like it, which is why command line
-developers and system administrators prefer it.
+developers and good system administrators prefer it.
 
 Even if you want or need Windows for software and games you can still
 get a Mac and Bootcamp it into Windows. The same is *not* true for
@@ -83,21 +84,30 @@ a Windows machine.
 Microsoft dominates 3D at the moment but is a far inferior server
 operating system down to the very core mostly because it was not
 designed from the very beginning to be a multiuser system. Everything
-to allow that has been hacked onto it over the years. 
+to allow that has been hacked onto it over the years. In order to
+administer a MS server you have to use some sort of graphic terminal
+connection. You simply cannot connect directly to a command line
+shell. It is absolutely astounding so many enterprise decision makers
+have allowed that many MS servers into their architecture.
 
 Today, Microsoft is changing rapidly to comply with the standards
 allowing Linux on their Azure cloud and shoe-horning Bash command
 line into Windows 10 (for developers only). These are things Mac
-and Linux have had for more than 16 years.
+and Linux have had for more than 16 years. Yet you still cannot log in
+to a Windows machine command line remotely over ssh. There are
+products that attempt to allow this, but fundamentally it is not
+included.
 
 If you are a gamer or creating anything in 3D you want Windows. A
 lot of developers secretly want a killer gaming system and find a
 way to justify getting a Windows machine because of it. If that is
-you, just own it.  [Here is more of the unapologetic truth about
-why we find Microsoft a poor choice, but don’t blame us if you get
-offended.](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md)
-
-##
+you, just own it. [Here is more of the unapologetic truth about why
+we find Microsoft a poor
+choice.](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md) Be
+warned. It might offend you. Why is all this MS bashing in a Prep
+course? Because we want you to understand immediately how we feel
+so that if you disagree you can decide now to find an alternative
+that teaches Microsoft. We never will.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
