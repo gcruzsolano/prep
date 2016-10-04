@@ -3,13 +3,13 @@
 
 >  This textbook goes with your personal, private workbook.
 >  To work on this course ask your instructor for an invite or find it
->  in your course chat room. Accepting the invite will create your personal
->  workbook for you.
+>  in your course chat room. Accepting the invite will create your 
+>  workbook.
 > 
->  If you catch spelling issues or other errors please submit an issue
+>  If you catch spelling issues or other errors please create an issue
 >  on this textbook to have it corrected. For questions about the
 >  assignments and work you are doing you can open issues on your
->  personal workbook.
+>  workbook instead.
 >  
 >  Teachers are encouraged to read the 
 >  [Teachers' Welcome](teachers/README.md)
