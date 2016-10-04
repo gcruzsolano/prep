@@ -1,15 +1,17 @@
 # [Preparing for Fundamentals][work]
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
->  This textbook goes with your personal, private workbook.
->  To work on this course ask your instructor for an invite or find it
->  in your course chat room. Accepting the invite will create your 
->  workbook.
+>  This textbook goes with workbook. To get your workbook ask your
+>  instructor for an invite or find it in your course chat room.
+>  When you accept the invite GitHub Classrooms will create your 
+>  workbook by copying the workbook starter repo.
 > 
->  If you catch spelling issues or other errors please create an issue
->  on this textbook to have it corrected. For questions about the
->  assignments and work you are doing you can open issues on your
->  workbook instead.
+>  For questions about anything in the course including your projects
+>  and assignments you can create an issue on your workbook and your
+>  instructor will see it. You can also ask in the course chat.
+> 
+>  If you catch spelling issues or other errors with either this textbook
+>  or the workbook open issues on them suggesting corrections.
 >  
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
