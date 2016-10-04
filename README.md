@@ -1,6 +1,18 @@
 # [Preparing for Fundamentals][work]
-
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
+
+>  **SkilStak™ Students:** This textbook goes with your personal workbook.
+>  To work on this course ask your instructor for an invite or find it
+>  in your course chat room. Accepting the invite will create your personal
+>  workbook for you.
+> 
+>  If you catch spelling issues or other errors please submit an issue
+>  on this textbook to have it corrected. For questions about the
+>  assignments and work you are doing you can open issues on your
+>  personal workbook.
+>  
+>  Teachers are encouraged to read the 
+>  [Teachers' Welcome](teachers/README.md)
 
 **Welcome to SkilStak™!** This Prep course gets you ready for
 everything to come later. Some of the stuff in Prep might seem
