@@ -11,8 +11,8 @@
 >  instructor will see it. You can also ask in the course chat.
 > 
 >  If you catch spelling issues or other errors with either this textbook
->  or the starter workbook, (linked from the header), please open
->  issues on them suggesting corrections.
+>  or the starter workbook (click title) please open issues on them
+>  suggesting corrections.
 >  
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
