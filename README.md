@@ -1,7 +1,7 @@
 # [Preparing for Fundamentals][work]
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
->  This **_text_book** goes with a **_work_**book. To get your
+>  This _text_book goes with a _work_book. To get your
 >  workbook ask your instructor for an invite or find it in your
 >  course chat room.  When you accept the invite GitHub Classrooms
 >  will create your  personal, private workbook by copying the workbook
