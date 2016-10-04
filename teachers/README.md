@@ -39,7 +39,14 @@ been completed by college age students and adults as well.
 
 ## Time
 
-The amount of time required to pass this 
+The amount of time required to pass off the prep skills depends on
+the student’s work outside of class and age. Some students finish
+all of the requirements in literally one 90-minute class. Others
+spend more than two months. A few require and entire semester (16
+weeks of 90-minute classes). Students always have the option of
+remaining in Prep for the rest of the semester doing other activities
+(under Extra) but can move into Fundamentals immediately when they
+are ready if they wish.
 
 ## Rubrics
 
@@ -57,6 +64,22 @@ equally be done with [codeanywhere.com](http://codeanywhere.com),
 individual Raspberry Pi computers, personal Linux laptops, virtual
 machines, or a remote virtual host such as [Digital
 Ocean](http://digitalocean.com).
+
+## Other
+
+Prep is an adjustment period. Students become acclimated to the
+school, surroundings, students and instructors. Be very aware of this
+adjustment and take care to ensure the first impression is a good one
+and not frustration. There is a real danger of scaring students away
+from programming if they are pushed too hard or not allowed a fair
+amount of *digital recess* to offset the programming work they do.
+
+Maintain a high aesthetic appeal in the classroom. The enticements of
+the fun environment will keep students associating positive feelings
+and experiences with their coding and peers. At SkilStak™ we strive to
+make every classroom feel like a miniature Google-meets-MIT
+environment full of visual appeal and cool gadgets they can eventually
+make as they continue their learning.
 
 ## Next
 
