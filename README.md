@@ -11,8 +11,8 @@
 >  assignments and work you are doing you can open issues on your
 >  workbook instead.
 >  
->  Teachers are encouraged to read the 
->  [Teachers' Welcome](teachers/README.md)
+>  Teachers are encouraged to read  
+>  [*Welcome Teachers!*](teachers/README.md)
 
 **Welcome to SkilStak™!** This Prep course gets you ready for
 everything to come later. Some of the stuff in Prep might seem
