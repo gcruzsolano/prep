@@ -115,9 +115,7 @@ them anytime:
 13. [**Explain**: Communications](/sections/communications.md)
 14. [**Sign**: Student Pledge](/sections/pledge.md)
 15. [**Attain**: 24 WPM on TypingTest.com](http://typingtest.com)
-
 16. [**Create**: Individual Development Plan][idp]
-
 17. [**Show**: Screenshot](/sections/screenshot.md)
 18. [**Complete**: Markdown Tutorial](http://www.markdowntutorial.com)
 19. [**Edit**: File with GitHub](/sections/edit.md)
@@ -125,20 +123,15 @@ them anytime:
 21. [**Create**: Custom Issue Label](/sections/label.md)
 22. [**Create**: First Web Site](/sections/web.md)
 23. [**Show**: Drag a File into a Repo](/sections/github-dnd.md)
-
 24. [**Explain**: What is just-in-time learning?](/sections/jit.md)
 25. [**Explain**: What is coding?](/sections/coding.md)
 26. [**Explain**: What is organic learning?](/sections/organic.md)
 27. [**Explain**: Which computer should I get?](/sections/computer.md)
-
 28. [**Show**: Login with Mac Terminal ](/sections/terminal.md)
 29. [**Show**: Login with CodeAnywhere.com](/sections/codeanywhere.md)
 30. [**Show**: Bash and VIM Essentials](/sections/bash.md)
-
 31. [**Show**: Basic Math](/sections/math.md)
-
 32. [**Attain**: Forest in CodeCombat.com](http://codecombat.com)
-
 33. [**Configure**: GitHub Keys](/sections/keys.md)
 
 [codecombat.com]: http://codecombat.com
