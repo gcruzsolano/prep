@@ -1,7 +1,7 @@
 # [Preparing for Fundamentals][work]
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
->  **SkilStak™ Students:** This textbook goes with your personal workbook.
+>  This textbook goes with your personal, private workbook.
 >  To work on this course ask your instructor for an invite or find it
 >  in your course chat room. Accepting the invite will create your personal
 >  workbook for you.
