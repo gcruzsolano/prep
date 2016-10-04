@@ -26,9 +26,9 @@
 
 ## Prerequisites
 
-* Can read
-* Familiar with a keyboard and mouse
-* Can type about 10 wpm
+* Be able to read
+* Be able to use a keyboard and mouse
+* Keyboard about 10 wpm
 
 ## Age
 
