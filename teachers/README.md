@@ -14,7 +14,6 @@ OER movement continues and classrooms become more digital.
 
 This document summarizes the following:
 
-1. [Copyright](#copyright)
 1. [Prerequisites](#prerequisites)
 1. [Age](#age)
 1. [Time](#time)
@@ -22,33 +21,10 @@ This document summarizes the following:
 1. [Resources](#resources)
 1. [Other](#other)
 1. [Next](#next)
+1. [Copyright](#copyright)
 
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
-
-## Copyright
-
-![oer](/assets/oer.png)
-
-This course is copyright [SkilStak, Inc.][skilstak] and released
-under the Creative Commons Attribution-ShareAlike 4.0 International
-License. You [should have received a copy of the license](LICENSE.md)
-with this work. If not, see
-[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
-
-We believe strongly in the *Open Educational Resources* (OER)
-movement as promoted by [UNESCO](http://www.unesco.org), [OER
-Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
-and others. Educators and course creators are encouraged to contribute
-or modify this course under the terms of this license.
-
-Students need not worry about copyright and licensing unless they
-plan on publishing their own modifications or derived versions of
-this course. Specifically they can use code created in their courses
-in their own projects without fear of copyright infringement or
-license violation. Student contributions to this or any other
-SkilStak™ course are on behalf of SkilStak™ and become a part of
-this copyright and license.
 
 ## Prerequisites
 
@@ -87,6 +63,31 @@ Ocean](http://digitalocean.com).
 After completing this course students are ready to begin either
 SkilStak™ [Fundamentals in Python](http://pyfun.skilstak.io) or
 [Fundamentals in Web](http://webfun.skilstak.io)
+
+## Copyright
+
+![oer](/assets/oer.png)
+
+This course is copyright [SkilStak, Inc.][skilstak] and released
+under the Creative Commons Attribution-ShareAlike 4.0 International
+License. You [should have received a copy of the license](LICENSE.md)
+with this work. If not, see
+[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
+
+We believe strongly in the *Open Educational Resources* (OER)
+movement as promoted by [UNESCO](http://www.unesco.org), [OER
+Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
+and others. Educators and course creators are encouraged to contribute
+or modify this course under the terms of this license.
+
+Students need not worry about copyright and licensing unless they
+plan on publishing their own modifications or derived versions of
+this course. Specifically they can use code created in their courses
+in their own projects without fear of copyright infringement or
+license violation. Student contributions to this or any other
+SkilStak™ course are on behalf of SkilStak™ and become a part of
+this copyright and license.
+
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
