@@ -7,7 +7,7 @@ Thanks for considering this digital textbook. Like all courses and
 learning modules at SkilStak™ each has a textbook and workbook
 GitHub repo. The textbook is for reference. The workbook is to be
 used as a starter “assignment” repo for [GitHub Classroom][classroom].
-You may wish you read more about using [*GitHub Classroom as Textbook
+You may wish to read more about using [*GitHub Classroom as Textbook
 and Workbook*][text-work] to familiarize yourself with the approach.
 We believe it is the future of all textbooks in education as the
 OER movement continues and classrooms become more digital.
