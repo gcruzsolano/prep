@@ -1,18 +1,16 @@
 # Welcome Teachers!
 
-Whether you are a SkilStak™ senior student who has become a student
-instructor, a teacher from a public or private school, a university
-adjunct, or even from a corporate organization we welcome you.
-Thanks for considering this digital textbook. Like all courses and
-learning modules at SkilStak™ each has a textbook and workbook
-GitHub repo. The textbook is for reference. The workbook is to be
-used as a starter “assignment” repo for [GitHub Classroom][classroom].
-You may wish to read more about using [*GitHub Classroom as Textbook
-and Workbook*][text-work] to familiarize yourself with the approach.
-We believe it is the future of all textbooks in education as the
-OER movement continues and classrooms become more digital.
-
-This document summarizes the following:
+> Whether you are a SkilStak™ senior student who has become a student
+> instructor, a teacher from a public or private school, a university
+> adjunct, or even from a corporate organization we welcome you.
+> Thanks for considering this digital textbook. Like all courses and
+> learning modules at SkilStak™ each has a textbook and workbook
+> GitHub repo. The textbook is for reference. The workbook is to be
+> used as a starter “assignment” repo for [GitHub Classroom][classroom].
+> You may wish to read more about using [*GitHub Classroom as Textbook
+> and Workbook*][text-work] to familiarize yourself with the approach.
+> We believe it is the future of all textbooks in education as the
+> OER movement continues and classrooms become more digital.
 
 1. [Prerequisites](#prerequisites)
 1. [Age](#age)
