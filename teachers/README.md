@@ -1,17 +1,69 @@
-# Teachers’ Welcome
+# Welcome Teachers!
 
-Thank you for using this textbook. It has an accompanying workbook
-that should be used as a starter repo for a [GitHub Classroom][classroom].
+Whether you are a SkilStak™ senior student who has become a student
+instructor, a teacher from a public or private school, a university
+adjunct, or even from a corporate organization we welcome you.
+Thanks for considering this digital textbook. Like all courses and
+learning modules at SkilStak™ each has a textbook and workbook
+GitHub repo. The textbook is for reference. The workbook is to be
+used as a starter “assignment” repo for [GitHub Classroom][classroom].
 You may wish you read more about using [*GitHub Classroom as Textbook
 and Workbook*][text-work] to familiarize yourself with the approach.
+We believe it is the future of all textbooks in education as the
+OER movement continues and classrooms become more digital.
+
+This document summarizes the following:
+
+1. [Copyright](#copyright)
+1. [Prerequisites](#prerequisites)
+1. [Age](#age)
+1. [Time](#time)
+1. [Rubrics](#rubrics)
+1. [Resources](#resources)
+1. [Other](#other)
+1. [Next](#next)
 
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
+
+## Copyright
+
+![oer](/assets/oer.png)
+
+This course is copyright [SkilStak, Inc.][skilstak] and released
+under the Creative Commons Attribution-ShareAlike 4.0 International
+License. You [should have received a copy of the license](LICENSE.md)
+with this work. If not, see
+[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
+
+We believe strongly in the *Open Educational Resources* (OER)
+movement as promoted by [UNESCO](http://www.unesco.org), [OER
+Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
+and others. Educators and course creators are encouraged to contribute
+or modify this course under the terms of this license.
+
+Students need not worry about copyright and licensing unless they
+plan on publishing their own modifications or derived versions of
+this course. Specifically they can use code created in their courses
+in their own projects without fear of copyright infringement or
+license violation. Student contributions to this or any other
+SkilStak™ course are on behalf of SkilStak™ and become a part of
+this copyright and license.
+
+## Prerequisites
+
+* Can read
+* Familiar with a keyboard and mouse
+* Can type about 10 wpm
 
 ## Age
 
 The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
+
+## Time
+
+The amount of time required to pass this 
 
 ## Rubrics
 
@@ -20,7 +72,7 @@ SkilStak™ we prefer to simply check for completion and supplement. The
 workbook contains several review questions that students should answer
 as they `x` off their skills.
 
-## Resources and Requirements
+## Resources
 
 Students need access to a **Bash command-line** on a computer that has
 had **`python3`** installed. Usually this will be through an **`ssh`**
@@ -30,7 +82,7 @@ individual Raspberry Pi computers, personal Linux laptops, virtual
 machines, or a remote virtual host such as [Digital
 Ocean](http://digitalocean.com).
 
-## Next Steps
+## Next
 
 After completing this course students are ready to begin either
 SkilStak™ [Fundamentals in Python](http://pyfun.skilstak.io) or

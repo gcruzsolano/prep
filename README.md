@@ -11,7 +11,8 @@
 >  assignments and work you are doing you can open issues on your
 >  workbook instead.
 >  
->  Teachers are encouraged to read [*Welcome Teachers!*](teachers/README.md)
+>  Teachers and parents are encouraged to
+>  read [*Welcome Teachers!*](teachers/README.md)
 
 **Welcome to SkilStak™!** This Prep course gets you ready for
 everything to come later. Some of the stuff in Prep might seem
@@ -211,30 +212,6 @@ long as you like doing other fun stuff:
 1. Learn to ["hack" your classmate's Mac](/sections/hack.md) to make it talk
 1. Learn [Minecraft tools like World Edit](mc)
 1. [Install the Chrome SSH Extension](/sections/chrome-ssh.md)
-
-## Copyright and License
-
-![oer](/assets/oer.png)
-
-This course is copyright [SkilStak, Inc.][skilstak] and released
-under the Creative Commons Attribution-ShareAlike 4.0 International
-License. You [should have received a copy of the license](LICENSE.md)
-with this work. If not, see
-[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
-
-We believe strongly in the *Open Educational Resources* (OER)
-movement as promoted by [UNESCO](http://www.unesco.org), [OER
-Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
-and others. Educators and course creators are encouraged to contribute
-or modify this course under the terms of this license.
-
-Students need not worry about copyright and licensing unless they
-plan on publishing their own modifications or derived versions of
-this course. Specifically they can use code created in their courses
-in their own projects without fear of copyright infringement or
-license violation. Student contributions to this or any other
-SkilStak™ course are on behalf of SkilStak™ and become a part of
-this copyright and license.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
