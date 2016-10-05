@@ -143,6 +143,24 @@ Therefore, the maximum any student can work for SkilStak™ and be paid
 is the cost of their tuition. Students can enroll for more offerings
 if they wish to work more.
 
+## PayPal
+
+**All transactions are through PayPal™**, payment, rebates, everything.
+Legally a student must be over 18 to use a PayPal account individually
+without being tied to a parent. When staff rebates and/or payments
+are made the student and parent provide the email to receive the
+funds via PayPal. SkilStak™ is not responsible for anything beyond
+that transfer of funds including security breaches of the student
+or parent’s account or lost or forgotten passwords.
+
+As with any financial transactions **the security of the student
+or parent’s PayPal account is the responsibility of the student or
+parent not SkilStak™**. Care should be taken to security that account
+including two-factor authentication, strong passwords, and frequent
+account reviews. SkilStak™ is not responsible for any loss of funds
+for any reason for any staff member account once the receipt of the
+money has been acknowledged.
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
