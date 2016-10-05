@@ -2,8 +2,9 @@
 
 ![](/assets/reading.gif)
 
-Congratulations you are reading this! In case you haven't noticed you
-really have to read a lot to be a good programmer.
+Congratulations you are reading this! The most important programming
+skill is actually reading. Get as much practice as you can and make
+sure to give your eyes a rest often by looking at something far away.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
