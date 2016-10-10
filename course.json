@@ -1,156 +1,202 @@
 {
+  "title": "Preparing for Fundamentals",
+  "summary": "",
   "order": [
     "overview",
-    "pproj",
+    "skills",
     "verify",
+    "pproj",
     "teachers"
   ],
   "parts": {
-    "verify": {
-      "parts": [],
-      "title": "Verify to Move On"
-    },
-    "pproj": {
+    "teachers": {
+      "title": "\ud83c\udf4e Welcome Teachers!",
       "parts": [
         {
-          "short": "what-is-prep",
-          "concepts": [],
-          "title": "What is Prep?"
+          "title": "Prerequisites",
+          "short": "prerequisites",
+          "concepts": []
         },
         {
-          "short": "why-code",
-          "concepts": [],
-          "title": "Why Code?"
+          "title": "Age",
+          "short": "age",
+          "concepts": []
         },
         {
-          "short": "codecombat",
-          "concepts": [],
-          "title": "CodeCombat"
+          "title": "Time",
+          "short": "time",
+          "concepts": []
         },
         {
-          "short": "prep-skills",
-          "concepts": [],
-          "title": "Prep Skills"
+          "title": "Rubrics",
+          "short": "rubrics",
+          "concepts": []
         },
         {
-          "short": "digital-recess",
-          "concepts": [],
-          "title": "Digital Recess"
+          "title": "Resources",
+          "short": "resources",
+          "concepts": []
         },
         {
-          "short": "prep-mini-projects",
-          "concepts": [],
-          "title": "Prep Mini-Projects"
+          "title": "Other",
+          "short": "other",
+          "concepts": []
+        },
+        {
+          "title": "Next",
+          "short": "next",
+          "concepts": []
+        },
+        {
+          "title": "Copyright",
+          "short": "copyright",
+          "concepts": []
         }
-      ],
-      "title": "Preparing for Fundamentals"
+      ]
+    },
+    "skills": {
+      "title": "Prep Skills",
+      "parts": [
+        {
+          "title": "Be Willing and Able to Read, A Lot",
+          "short": "be-willing-and-able-to-read-a-lot",
+          "concepts": []
+        },
+        {
+          "title": "Use Chrome Incognito",
+          "short": "use-chrome-incognito",
+          "concepts": []
+        },
+        {
+          "title": "Join Mailing List",
+          "short": "join-mailing-list",
+          "concepts": []
+        },
+        {
+          "title": "Create Google Gmail Account",
+          "short": "create-google-gmail-account",
+          "concepts": []
+        },
+        {
+          "title": "Join the Slack Chat Room",
+          "short": "join-the-slack-chat-room",
+          "concepts": []
+        },
+        {
+          "title": "Understanding Core Offerings",
+          "short": "understanding-core-offerings",
+          "concepts": []
+        },
+        {
+          "title": "Digital Recess",
+          "short": "digital-recess",
+          "concepts": []
+        },
+        {
+          "title": "Prep Mini-Projects",
+          "short": "prep-mini-projects",
+          "concepts": []
+        }
+      ]
     },
     "flappy": {
+      "title": "SkilStak Flappy",
       "parts": [
         {
+          "title": "Image Asset Dimensions",
           "short": "image-asset-dimensions",
-          "concepts": [],
-          "title": "Image Asset Dimensions"
+          "concepts": []
         },
         {
+          "title": "Sound Assets",
           "short": "sound-assets",
-          "concepts": [],
-          "title": "Sound Assets"
+          "concepts": []
         },
         {
+          "title": "Hacking the Script",
           "short": "hacking-the-script",
-          "concepts": [],
-          "title": "Hacking the Script"
+          "concepts": []
         }
-      ],
-      "title": "SkilStak Flappy"
+      ]
+    },
+    "verify": {
+      "title": "Verify Your Ready",
+      "parts": []
+    },
+    "pproj": {
+      "title": "Preparing for Fundamentals",
+      "parts": [
+        {
+          "title": "What is Prep?",
+          "short": "what-is-prep",
+          "concepts": []
+        },
+        {
+          "title": "Why Code?",
+          "short": "why-code",
+          "concepts": []
+        },
+        {
+          "title": "CodeCombat",
+          "short": "codecombat",
+          "concepts": []
+        },
+        {
+          "title": "Prep Skills",
+          "short": "prep-skills",
+          "concepts": []
+        },
+        {
+          "title": "Digital Recess",
+          "short": "digital-recess",
+          "concepts": []
+        },
+        {
+          "title": "Prep Mini-Projects",
+          "short": "prep-mini-projects",
+          "concepts": []
+        }
+      ]
     },
     "overview": {
+      "title": "Overview",
       "parts": [
         {
+          "title": "What is Prep?",
           "short": "what-is-prep",
           "concepts": [
             "Prep",
             "CodeCombat",
             "Prep Skills",
             "Digital Recess"
-          ],
-          "title": "What is Prep?"
+          ]
         },
         {
+          "title": "Why Code?",
           "short": "why-code",
-          "concepts": [],
-          "title": "Why Code?"
+          "concepts": []
         },
         {
+          "title": "CodeCombat",
           "short": "codecombat",
-          "concepts": [],
-          "title": "CodeCombat"
+          "concepts": []
         },
         {
+          "title": "Prep Skills",
           "short": "prep-skills",
-          "concepts": [],
-          "title": "Prep Skills"
+          "concepts": []
         },
         {
+          "title": "Digital Recess",
           "short": "digital-recess",
-          "concepts": [],
-          "title": "Digital Recess"
+          "concepts": []
         },
         {
+          "title": "Prep Projects",
           "short": "prep-projects",
-          "concepts": [],
-          "title": "Prep Projects"
+          "concepts": []
         }
-      ],
-      "title": "Overview"
-    },
-    "teachers": {
-      "parts": [
-        {
-          "short": "prerequisites",
-          "concepts": [],
-          "title": "Prerequisites"
-        },
-        {
-          "short": "age",
-          "concepts": [],
-          "title": "Age"
-        },
-        {
-          "short": "time",
-          "concepts": [],
-          "title": "Time"
-        },
-        {
-          "short": "rubrics",
-          "concepts": [],
-          "title": "Rubrics"
-        },
-        {
-          "short": "resources",
-          "concepts": [],
-          "title": "Resources"
-        },
-        {
-          "short": "other",
-          "concepts": [],
-          "title": "Other"
-        },
-        {
-          "short": "next",
-          "concepts": [],
-          "title": "Next"
-        },
-        {
-          "short": "copyright",
-          "concepts": [],
-          "title": "Copyright"
-        }
-      ],
-      "title": "\ud83c\udf4e Welcome Teachers!"
+      ]
     }
-  },
-  "title": "Preparing for Fundamentals",
-  "summary": ""
+  }
 }
