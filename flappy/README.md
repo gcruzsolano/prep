@@ -1,4 +1,4 @@
-# SkilStak Flappy 
+# [⏪ SkilStak Flappy ](/README.md)
 
 ![flappy](/assets/flappy1.gif)
 
@@ -37,6 +37,7 @@ breaking it too badly. Your instructor or assistant can always
 recover it using version control.
 
 ---
+[![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/

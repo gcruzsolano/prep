@@ -1,22 +1,14 @@
 # [Preparing for Fundamentals][work]
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
->  This *text*book goes with a *work*book. To get your
+>  💬 [This *text*book goes with a *work*book][t]. To get your
 >  workbook ask your instructor for an invite or find it in your
->  course chat room.  When you accept the invite GitHub Classrooms
->  will create your  personal, private workbook by copying the workbook
->  starter repo.
-> 
->  For questions about anything in the course including your projects
->  and assignments you can create an issue on your workbook and your
->  instructor will see it. You can also ask in the course chat.
-> 
->  If you catch spelling issues or other errors with either this textbook
->  or the starter workbook (click title) please open issues on them
->  suggesting corrections.
->  
->  Teachers and parents are encouraged to
->  read [*Welcome Teachers!*](teachers/README.md)
+>  course chat room. When you accept the invite GitHub Classrooms
+>  will create your personal, private workbook by copying the workbook
+>  starter repo. Teachers and parents should read the
+>  [Welcome](/teachers/README.md).
+
+[t]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.hz2t38o93
 
 **Welcome to SkilStak™!** This Prep course gets you ready for
 everything to come later. Some of the stuff in Prep might seem
@@ -42,6 +34,19 @@ here. So please be patient and thorough.
   5. [**Digital Recess**](pproj/README.md#digital-recess)
   6. [**Prep Mini-Projects**](pproj/README.md#prep-mini-projects)
 3. [**Verify to Move On** (`verify`)](verify/README.md)
+4. [**SkilStak Flappy** (`flappy`)](flappy/README.md)
+  1. [**Image Asset Dimensions**](flappy/README.md#image-asset-dimensions)
+  2. [**Sound Assets**](flappy/README.md#sound-assets)
+  3. [**Hacking the Script**](flappy/README.md#hacking-the-script)
+5. [**Welcome Teachers!** (`teachers`)](teachers/README.md)
+  1. [**Prerequisites**](teachers/README.md#prerequisites)
+  2. [**Age**](teachers/README.md#age)
+  3. [**Time**](teachers/README.md#time)
+  4. [**Rubrics**](teachers/README.md#rubrics)
+  5. [**Resources**](teachers/README.md#resources)
+  6. [**Other**](teachers/README.md#other)
+  7. [**Next**](teachers/README.md#next)
+  8. [**Copyright**](teachers/README.md#copyright)
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
