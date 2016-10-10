@@ -16,7 +16,36 @@ you arrived at SkilStak™.  The rest you will accomplish and go over
 in class, but you can work on them anytime. They generally should be
 done in order
 
-## Be Willing and Able to Read, A Lot
+## Table of Contents
+
+1. [**Be Willing and Able to Read, A Lot**](#-be-willing-and-able-to-read-a-lot)
+2. [**Use Chrome Incognito**](#-use-chrome-incognito)
+3. [**Join Mailing List**](#-join-mailing-list)
+ 1. [**Checking Promotions Folder**](#-checking-promotions-folder)
+ 2. [**Confirm Subscription**](#-confirm-subscription)
+ 3. [**Subscription Confirmed**](#-subscription-confirmed)
+ 4. [**Add Contact So Comes to Main Folder**](#-add-contact-so-comes-to-main-folder)
+4. [**Create Google Gmail Account**](#-create-google-gmail-account)
+ 1. [**13 and Up**](#-13-and-up)
+ 2. [**Your Most Important Password**](#-your-most-important-password)
+ 3. [**Multiple Gmail Accounts**](#-multiple-gmail-accounts)
+5. [**Join the Slack Chat Room**](#-join-the-slack-chat-room)
+ 1. [**Get an Invite**](#-get-an-invite)
+ 2. [**Join Your Team**](#-join-your-team)
+ 3. [**Set Your Password**](#-set-your-password)
+ 4. [**Skip the Tutorial**](#-skip-the-tutorial)
+ 5. [**Show All Channels**](#-show-all-channels)
+ 6. [**Join the Prep Channel**](#-join-the-prep-channel)
+ 7. [**Accept the Prep Work Repo Invite**](#-accept-the-prep-work-repo-invite)
+6. [**Understanding Core Offerings**](#-understanding-core-offerings)
+ 1. [**Level 1: Preparation**](#-level-1-preparation)
+ 2. [**Level 2: Proficiency**](#-level-2-proficiency)
+ 3. [**Level 3: Project**](#-level-3-project)
+ 4. [**Level 4: Professionals**](#-level-4-professionals)
+7. [**Digital Recess**](#-digital-recess)
+8. [**Prep Mini-Projects**](#-prep-mini-projects)
+
+## [⏫ Be Willing and Able to Read, A Lot](#table-of-contents)
 
 ![](/assets/reading.gif)
 
@@ -24,7 +53,7 @@ Congratulations you are reading this! The most important programming
 skill is actually reading. Get as much practice as you can and make
 sure to give your eyes a rest often by looking at something far away.
 
-## Use Chrome Incognito
+## [⏫ Use Chrome Incognito](#table-of-contents)
 
 Chrome is the browser we use during this course. Incognito
 (in-cog-NEE-to) is a way to use Chrome so that the person before
@@ -37,7 +66,7 @@ for logins. So here's how to do it.
 
 ![incognito](/assets/incognito.gif)
  
-## Join Mailing List
+## [⏫ Join Mailing List](#table-of-contents)
 
 You should have signed up for the mailing list at the bottom of your
 location’s web page. Make sure you and your emergency contact are on
@@ -48,7 +77,7 @@ The mailing list is one of the main ways to
 changes, events and such. It is your responsibility to make sure
 you and your parents know how to find these and read them.
 
-### Checking Promotions Folder
+### [⏫ Checking Promotions Folder](#table-of-contents)
 
 Unfortunately the mail service that we use (mailchimp.com) is
 automatically sent to the *Promotions* mail folder on Gmail. Here's
@@ -56,22 +85,22 @@ how to find it:
 
 ![promotions](/assets/promotions.png)
 
-### Confirm Subscription
+### [⏫ Confirm Subscription](#table-of-contents)
 
 There will be an email in your main email folder that has something
 like this in it. Click on *Accept*.
 
 ![confirm](/assets/confirm-subscription.png)
 
-### Subscription Confirmed
+### [⏫ Subscription Confirmed](#table-of-contents)
 
 ![accepted](/assets/subscription-confirmed.png)
 
-### Add Contact So Comes to Main Folder
+### [⏫ Add Contact So Comes to Main Folder](#table-of-contents)
 
 ![add-contact](/assets/add-to-contacts.png)
 
-## Create Google Gmail Account
+## [⏫ Create Google Gmail Account](#table-of-contents)
 
 ![](/assets/gmail.png)
 
@@ -85,7 +114,7 @@ gmail account. Later, if you really want, you can forward your Gmail
 to your other account (but we strongly recommend picking
 a Gmail address to use for the rest of your technology life).
 
-### 13 and Up
+### [⏫ 13 and Up](#table-of-contents)
 
 ***If you are under 13 you are not legally allowed to have a Gmail
 account.*** Your parents *are* allowed to have an account, however.
@@ -97,7 +126,7 @@ let you use it.
 
 ![](/assets/gmail-age.png)
 
-### Your Most Important Password
+### [⏫ Your Most Important Password](#table-of-contents)
 
 Gmail is the most important account and password information that you
 remember. This is because you can forget the passwords and login
@@ -110,7 +139,7 @@ recovery option, preferrably a phone number.***
 
 ![](/assets/gmail-recovery.png)
 
-### Multiple Gmail Accounts
+### [⏫ Multiple Gmail Accounts](#table-of-contents)
 
 One of the main reasons Gmail makes the most sense is its support of
 *multiple gmail account names*.
@@ -132,7 +161,7 @@ account:
 This is extremely useful when you need more than one account on
 another service, like CodeCombat, Twitter, GitHub or whatever else.
 
-## Join the Slack Chat Room
+## [⏫ Join the Slack Chat Room](#table-of-contents)
 
 **The chat room is the most important thing for you to remember
 from this class.** Everything else depends on it. **You should check
@@ -154,7 +183,7 @@ chat as easy as text messages. This is no *made-for-education* chat
 tool, it's a *real* tool used by professionals, which is the main
 reason we require learning it. 
 
-### Get an Invite
+### [⏫ Get an Invite](#table-of-contents)
 
 Because we use a private repo (for obvious reasons) you'll need an
 invite from your instructor, teacher assistant, or location manager.
@@ -162,37 +191,37 @@ Here's what it looks like in your in box:
 
 ![](/assets/slack1.png)
 
-### Join Your Team
+### [⏫ Join Your Team](#table-of-contents)
 
 ![](/assets/slack2.png)
 ![](/assets/slack3.png)
 
-### Set Your Password
+### [⏫ Set Your Password](#table-of-contents)
 
 ![](/assets/slack4.png)
 
-### Skip the Tutorial
+### [⏫ Skip the Tutorial](#table-of-contents)
 
 If you like you can skip the tutorial for now.
 
 ![](/assets/slack5.png)
 
-### Show All Channels
+### [⏫ Show All Channels](#table-of-contents)
 
 ![](/assets/slack6.png)
 ![](/assets/slack7.png)
 
-### Join the Prep Channel
+### [⏫ Join the Prep Channel](#table-of-contents)
 
 ![](/assets/slack8.png)
 ![](/assets/slack9.png)
 
-### Accept the Prep Work Repo Invite
+### [⏫ Accept the Prep Work Repo Invite](#table-of-contents)
 
 Create your own workbook repo by clicking on the pinned invite in your
 slack chat room.
 
-## Understanding Core Offerings
+## [⏫ Understanding Core Offerings](#table-of-contents)
 
 If we were at Disney Land then *Core Offerings* we be our directional
 pillar.  You know those “you are here” things with a star helping
@@ -212,7 +241,7 @@ Each has a general focus and different prices depending on the
 location. (While we try to maintain our prices nationally we recognize
 there are different costs of living depending on the location.)
 
-### Level 1: Preparation
+### [⏫ Level 1: Preparation](#table-of-contents)
 
 *[Play][]*, *[Prep][]*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 
@@ -223,7 +252,7 @@ to anything they can be taken more than once, but are billed at the
 *Preparation* tier. *Prep* and *Play* can also be taken more than once
 but *Prep* is generally only needed for one semester (or less).
 
-### Level 2: Proficiency
+### [⏫ Level 2: Proficiency](#table-of-contents)
 
 Proficiency means being able to show that you are able to do
 something, that you are competent, that you know the Fundamentals
@@ -285,7 +314,7 @@ think about it, the more you will realize any organization that is
 setup to advance students based on age and grade on a certain time
 table is, well, flawed. Everyone is different.
 
-### Level 3: Project
+### [⏫ Level 3: Project](#table-of-contents)
 
 This level is for **exploration and specialization**.  Montessori
 has championed the idea that projects foster independence,
@@ -365,7 +394,7 @@ really solidify your mastery of programming and your specialization.
 Eventually you might want to pitch one or more of your current or
 future projects for the *Professional Incubator Program*.
 
-### Level 4: Professionals
+### [⏫ Level 4: Professionals](#table-of-contents)
 
 Currently there is only one course at this level: [*Professional Incubator
 Program*][Pro]. 
@@ -459,7 +488,7 @@ and you can prove you are ready.
 [panzoid.com]: http://panzoid.com
 [khanacademy.com]: http://khanacademy.com
 
-## Digital Recess
+## [⏫ Digital Recess](#table-of-contents)
 
 ![minecraft](/assets/minecraft1.gif)
 
@@ -496,7 +525,7 @@ two briefly.
 
 [rebates]: https://github.com/skilstak/prep/blob/gh-pages/sections/policies.md#staff-rebates
 
-## Prep Mini-Projects
+## [⏫ Prep Mini-Projects](#table-of-contents)
 
 ![flappy](/assets/flappy1.gif)
 
