@@ -1,4 +1,4 @@
-# [⏪ SkilStak Flappy ](/README.md)
+# [⏪ SkilStak Flappy](/README.md)
 
 ![flappy](/assets/flappy1.gif)
 
