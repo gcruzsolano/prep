@@ -200,7 +200,7 @@ Fundamentals you can either immediately move up or stay in Prep for as
 long as you like doing other fun stuff:
 
 1. Create art with [piskelapp.com][]
-1. Assemble your own [Flappy Bird](flappy) game
+1. Assemble your own [Flappy Bird](/flappy/README.md) game
 1. Create art in [playcanvas.com][]
 1. Create 3D video intros in [panzoid.com][]
 1. Create diagrams in [draw.io][]

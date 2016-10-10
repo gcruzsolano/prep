@@ -1,157 +1,156 @@
 {
+  "order": [
+    "overview",
+    "pproj",
+    "verify",
+    "teachers"
+  ],
   "parts": {
-    "teachers": {
-      "title": "\ud83c\udf4e Welcome Teachers!",
-      "parts": [
-        {
-          "title": "Prerequisites",
-          "short": "prerequisites",
-          "concepts": []
-        },
-        {
-          "title": "Age",
-          "short": "age",
-          "concepts": []
-        },
-        {
-          "title": "Time",
-          "short": "time",
-          "concepts": []
-        },
-        {
-          "title": "Rubrics",
-          "short": "rubrics",
-          "concepts": []
-        },
-        {
-          "title": "Resources",
-          "short": "resources",
-          "concepts": []
-        },
-        {
-          "title": "Other",
-          "short": "other",
-          "concepts": []
-        },
-        {
-          "title": "Next",
-          "short": "next",
-          "concepts": []
-        },
-        {
-          "title": "Copyright",
-          "short": "copyright",
-          "concepts": []
-        }
-      ]
-    },
     "verify": {
-      "title": "Verify to Move On",
-      "parts": []
-    },
-    "flappy": {
-      "title": "SkilStak Flappy",
-      "parts": [
-        {
-          "title": "Image Asset Dimensions",
-          "short": "image-asset-dimensions",
-          "concepts": []
-        },
-        {
-          "title": "Sound Assets",
-          "short": "sound-assets",
-          "concepts": []
-        },
-        {
-          "title": "Hacking the Script",
-          "short": "hacking-the-script",
-          "concepts": []
-        }
-      ]
+      "parts": [],
+      "title": "Verify to Move On"
     },
     "pproj": {
-      "title": "Preparing for Fundamentals",
       "parts": [
         {
-          "title": "What is Prep?",
           "short": "what-is-prep",
-          "concepts": []
+          "concepts": [],
+          "title": "What is Prep?"
         },
         {
-          "title": "Why Code?",
           "short": "why-code",
-          "concepts": []
+          "concepts": [],
+          "title": "Why Code?"
         },
         {
-          "title": "CodeCombat",
           "short": "codecombat",
-          "concepts": []
+          "concepts": [],
+          "title": "CodeCombat"
         },
         {
-          "title": "Prep Skills",
           "short": "prep-skills",
-          "concepts": []
+          "concepts": [],
+          "title": "Prep Skills"
         },
         {
-          "title": "Digital Recess",
           "short": "digital-recess",
-          "concepts": []
+          "concepts": [],
+          "title": "Digital Recess"
         },
         {
-          "title": "Prep Mini-Projects",
           "short": "prep-mini-projects",
-          "concepts": []
+          "concepts": [],
+          "title": "Prep Mini-Projects"
         }
-      ]
+      ],
+      "title": "Preparing for Fundamentals"
+    },
+    "flappy": {
+      "parts": [
+        {
+          "short": "image-asset-dimensions",
+          "concepts": [],
+          "title": "Image Asset Dimensions"
+        },
+        {
+          "short": "sound-assets",
+          "concepts": [],
+          "title": "Sound Assets"
+        },
+        {
+          "short": "hacking-the-script",
+          "concepts": [],
+          "title": "Hacking the Script"
+        }
+      ],
+      "title": "SkilStak Flappy"
     },
     "overview": {
-      "title": "Overview",
       "parts": [
         {
-          "title": "What is Prep?",
           "short": "what-is-prep",
           "concepts": [
             "Prep",
             "CodeCombat",
             "Prep Skills",
             "Digital Recess"
-          ]
+          ],
+          "title": "What is Prep?"
         },
         {
-          "title": "Why Code?",
           "short": "why-code",
-          "concepts": []
+          "concepts": [],
+          "title": "Why Code?"
         },
         {
-          "title": "CodeCombat",
           "short": "codecombat",
-          "concepts": []
+          "concepts": [],
+          "title": "CodeCombat"
         },
         {
-          "title": "Prep Skills",
           "short": "prep-skills",
-          "concepts": []
+          "concepts": [],
+          "title": "Prep Skills"
         },
         {
-          "title": "Digital Recess",
           "short": "digital-recess",
-          "concepts": []
+          "concepts": [],
+          "title": "Digital Recess"
         },
         {
-          "title": "Prep Projects",
           "short": "prep-projects",
-          "concepts": []
+          "concepts": [],
+          "title": "Prep Projects"
         }
-      ]
+      ],
+      "title": "Overview"
+    },
+    "teachers": {
+      "parts": [
+        {
+          "short": "prerequisites",
+          "concepts": [],
+          "title": "Prerequisites"
+        },
+        {
+          "short": "age",
+          "concepts": [],
+          "title": "Age"
+        },
+        {
+          "short": "time",
+          "concepts": [],
+          "title": "Time"
+        },
+        {
+          "short": "rubrics",
+          "concepts": [],
+          "title": "Rubrics"
+        },
+        {
+          "short": "resources",
+          "concepts": [],
+          "title": "Resources"
+        },
+        {
+          "short": "other",
+          "concepts": [],
+          "title": "Other"
+        },
+        {
+          "short": "next",
+          "concepts": [],
+          "title": "Next"
+        },
+        {
+          "short": "copyright",
+          "concepts": [],
+          "title": "Copyright"
+        }
+      ],
+      "title": "\ud83c\udf4e Welcome Teachers!"
     }
   },
   "title": "Preparing for Fundamentals",
-  "order": [
-    "overview",
-    "pproj",
-    "verify",
-    "flappy",
-    "teachers"
-  ],
   "summary": ""
 }
